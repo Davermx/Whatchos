@@ -1,64 +1,44 @@
 # humanstxt.org/
 
-                                                                                                                                                           
-                                ,r;.                                                                                                                              
-                             .irXXS7r:.                                                                                                                           
-                           .                                                                                                                                      
-                                                                                                                                                                  
-                                :rX7i.                                                                                                                            
-              :,.             i2ZaZZZZX                                                                                                                           
-           .;Xi.             i2ZSSXSSaZX             .:7,                                                                                                         
-        :;X22i               72SSXSXSSZS:              ;BZX:                                                                                                      
-    .irXSSSS:                r2SXSXSXS2X.               ;BB0ZSi.                                                                                                  
- .;7SXX7X7S;                 r2XXXSXSSaX,                S8Z88B0ZXi                                                                                               
-X7XX7777r7Xi                 rSSXXXSXSaX.                ;aZaaZZ8BWS   iii::::,::::ii.                                                                            
-7;7r777r77S:                 r2SSXSXSXaX,                ,aZaaaaZZBX   BMBWBWBWBWBW@Wi                                                                            
-rrr7r7r7r7Xr                 rSSXSXSX22S.                ;aZ2aaaaZ0X   80ZZZZZZZZZZ0Z:                                                                            
-7;rr7r7r77XXr                ra2SXSXSSZX.                a8aa2a2aaBX   Z0aZaaaZaZaZ88,                                                                            
-rrr7r7r7777XXr               .XZ22SS2ZZ;               .28aa2a2aaZ0X   88ZaZaZaZaZa0Z,                                                                            
-7;7r7r7r7r77XXX,               ;2aZZaX:               rZ8aa2a2a2aaBX   Z0aaaZaaaZaZZZ,   .2Z0808080808080808080808080808000:   ;Z8080808080808088888880808080Za:  
-rrr7r777r7777XX2Xi               .,,                ;Z8Zaa2a2a2aaZ0X   88ZaZaZaaaZa8Z,  :0B08888Z88888Z08888888888Z888888B8:  7BB088Z88888Z8888888Z88888Z88880B0: 
-7;rr7r777r77X7XXS2Sr:                            :XZ0Za2a222aaaaaaBX   Z0aZaZaZaZaZ88,  7WZaZaZaaaZaZZZZ888888888Z888888808:  Z8ZaZaZaZaZaZaZ8888ZZaZaaaZaZaaaZWS 
-r;r7r7r7r7r77X7X7XX22S7;.                  .,;7Sa0ZZ2a222a2a2a2aaZ0X   88ZaZaZaaaaa8Z:  ;WZaaZaZaaaZaZ2SXSSSSSXSSSSSSSSaa8Z:  28ZaaZaZaZaZaZ2SSSXSSZaZaZaZaZaZaW7 
-r;rr7r77777777X7XXXXS2ZZ88X           ,i7SZZZZZZZ22222a22222aaa2aaBX   Z0aZaZaaaZaZ88,  ;BZaZaZaaaZaaZX,,.,.,,:,,.,.:,.       aZZaZaZaZaZaZ2r.,..,rZZaZaZaZaaaZBX 
-r;r7r7r777777X7X7XS2SX7;::.        iX2ZZZa2a2a22S2S2222a2a2a2aaaaZ0X   Z8ZaZaaaZaZa8Z,  r@ZZaZaZaaaZZZZZZ888Z8Z8Z8Z8Z8ZZa7    28aZaZaaaaaaaZZ8Z8ZZZZaZaZaZaZaZZ@X 
-r;rr7r77777777XXSSXi.           iXZZZ22S2SSS222222a2a2aaa2a2a2aaaaBX   Z0aZaZaZaZaZ88,  ,ZB08Z8Z8Z8Z8Z8808088ZZZZZZZZZ8Z0B2   aZZaaaZaaaaaZZZ808088Z8Z8Z8Z8880WZ, 
-rrr7r7r7r7777XX2X,            ;2aaS2S2222a2ZaZZZZ8808B8ZZZaa2a2aaZ0X   Z0aaZaZaZaZa8Z:    i7XXXXXXXXXXXXXSXXXaZZaZaZaaaZZ08:  28aaaZaZaZaaZZSXXXXXXXXSXXXXXXX7i   
-7;7r7r777r77XSS:            ,XZ2SX2aZZZaZaZaaSSX7rii:.. .2Z2a2aaaaBX   Z0aaaZaZaZaZ88,  i7ii;;;;r;;;;;;;;;;i72ZaZaZaZaZaZ8Z,  a8ZaaaaaZaaaZ2X;;;;;;;;;;;;;;;;ii7i 
-r;r7r7r7r77XSX              2ZSSX2S7ii,,.                aZa2aaaaZ0X   88ZaaaZaZaaa8Z:  ,ZMB88Z8Z8Z8Z8Z8ZZZ8ZZaZaaaaaZaZZ8Z:  a8ZZaZaZaaaaaZZZZ8Z8Z8Z8Z8ZZZ8ZBM0. 
-7;rr7r777rXX7               a2XXX2X                      a82aaaaZa0X   Z0ZZZZZZZZaZ88,    700ZZZZZZZZZZZZZZZZZZZZaZZZaZZ8B8,  Z00ZZZZZZZZZZZZZZZZZZZZZZZZZZZ0BX   
-r;r7r7r777X7.               S2XSX2X                      ZZa2a2aaZ0X   BWB0B0B000B0WBi     i8WBB000B0B0B0B0B0B000B0B000BBZ,   .ZBB0B0B0B0B0B0B0B0B0B0B0B000W0r    
-7;7r7r7r77Xi                2SSXSSSi  ...                a82aaaaaaBX   7S7X7X7X7X7XXX.      ,7X7X7X77777X7X77777X7X7X77;:       ,;77X7X7X7X7X777X7X777X7X7XX:     
-7r77r7r7rXX;                22XXXSSaZZZ0Zi               aZa2aaaa8W2                                                                                              
-rrXXX77777Si                2SXXSXSS2S2a2:               a8aaaZ8BBBr                                                                                              
-  .i7XXXXXX7                22XXXSXSXSSaS:               a880BZa;,                                                                                                
-      i;XS22r               22SXSXXXSSSa2:             ,8BBZXi                                                                                                    
-         ,;X2X              iaaSXSXSSSSZS,           .X0Z7.                                                                                                       
-            :;r,             :2ZZaa2aZ82i           :r7,                                                                                                          
-               ...             i7XXSSXi            ..                                                                                                             
-                                                                                                                                                                  
-                       ,:iii,.         ,:i.                                                                                                                       
-                         .:rS2aaSXSSZaaX;,.                                                                                                                       
-                              .;Xa2X;.                                    
+                                                                                                                                                        
+            .PIU21212UqQ:                                                             iQK2U1U1UUIP.           
+            UIJjsjJjj5dr                                                               7b5jususuj51           
+          .ZPU21U1UUqDr                                                                 7ZXUU1U12UPE.         
+         :DK22u2122KDi                                                                   rDKUU1U1U2qD.        
+        :DK12uUuUUKD:       :BBBBBBBBB. bEdPPPPS17:         iuEQBBBBBQBBBBBBBBBBBB        iDKUUuU12UPZ:       
+       rDX1U1U12UPZ.        .BBBBBBBQB. qEXKSKXKqddDPs.  QBBBBBBBBBBBBBBBBBBQBQBBB         :DKUU1112UqZ:      
+      rZSUUu1u22qZ.         .BBMQgQMQB. SKI25UI1IUI2qPDS: KBBQQMQRQRQQQMQgQgQgRMBQ          :ZKUUuUuUUqZi     
+     vZX1U1Uu2UqZ.          .BQRgMgMRB  EgPdPPKKU2121I2qPv  BBQBQBBBBBBBBRgMgMgRBB           .Eq2Uu2uUUXZ7    
+    sES1Uu2u22Pd            .BBgMgMgQB. vYvvvv5PZXIUU1UUIXP  BBBMUv7v7vr2BQgMgRgBB            .EP2U1Uu2UXZv   
+   Ud512u1uU2PP             .BQMgMgMQB.         .XqIu2uU12KP s7         .BRMgRgMQB             .dP221U12USZY  
+  Sd51Uu11U1qK              .QBgRgMgBB.           SS2u1uU15E:           :BQgMgRgBB               bP1UuUuUUXd1 
+.IZXUUu1u11Sj               .BQRgRgMQB.           idU211uUUZ:           :BQMgRgRBB                U512uU1UUXEY
+.5ZI2111U1252               .BBgRgRgQB.           rPIuU1U12P:           :BQgRgMMBB                52U1UuUu2IDY
+  Kd2UuUuUu2qP              .BQMgMgRRB.           :Z2U1U11Uq2           :BRMgMgRBB               ZSIuU1Uu2IE2 
+   XEIU1UuUuIPd             .BQgMgMgQB          X7 PKU2uUuUUP5.         :BQgMgMgBB              ZqI12uU12IZU  
+    SE2Uu1uU1Iqd            .BQRgMgMMB1vYJssjPQBQB  qqU2uUuU2qbEIuvsY17 :BRMgMgMBB             DK51UuU122EU   
+     SdI21U1U15qd           .BQgMgMgRRBBBQBBBBBBBBB  vEXS22U2UIIKKPqbDq :BQgMgRgBQ            DKIuU1U1IIZ2    
+      SEIU12111IqZ          .BQQgRgMMQRQRQRQRQRQRQBBS.:KZdX5UI1IUIUIIPj :BQQgMMQBB           DKI11u1122E2     
+       5d2U12uUuIKE         .QBBBBBQBBBBBQBQBQBBBBBBBd  .LPEZbbKKSqXqd5 iBBBBBBBBB          ZKI1UuU12IZ1      
+        5d221U1U15qE        .BBBBBBBBBBBBBBBBBQgSv.         :7YIXPXqKEU iBQBBBBBBB         DK5u2uUu2IE1       
+         5EI21Uu215KE                                                                    .DKI1UuUuUIEu        
+          Id22u21U15qD                                                                  .gKI121U122Zj         
+           r5J1JuJ1JUKg.                                                               .MXUJuJusjjSi                                                 
 
 
 
-# TEAM 
+# Front-End Developer
   David Aguilera
-	Front-End | Engineer | Consultor IT | Experto En Facturacion Electronica | Apasionado por la tecnologia | 	
-	Contacto: info [at] gise.mx
-	Twitter: @davermx
-	Intagram: @davermx11
-	Facebook: @gisecancun
-	From: Cancun, Mexico
-
+	Engineer | Consultor IT | Experto En Facturacion Electronica | Diseñador | Entrepreneur | 	
+	Contacto: info [at] daguilera.com.mx
+	Twitter personal: @davermx
+	Intagram: @iamdaguilera
+	From: Cancun, Mex
 
 # TECHNOLOGY 
   * Frontend
-        HTML5, CSS3, Materializecss, FontAwesome, Javascript, Php, Google Font Api,
-  * Backend
-        Nginx, Cloudflare, php,
+        HTML5, CSS3, Google Font
   * Tools/Platforms
         illustrator, github,
   * IDEs
-        Atom.io, SublimeText3, visual studio code  
+        visual studio code, Gitkraken  
